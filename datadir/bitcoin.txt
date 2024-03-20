@@ -1,0 +1,7 @@
+rpcuser=lapphan1
+rpcpassword=ZrZ-Vqi-Frx9pid6pQYuiBkCETnoNfRqeiD6QFxxVSc rpcauth=lapphan1:a3a22799a21af58d9a7464c90c2f957e$6df3a81cb62661aa1838bc8a42d203a7ea8153c951a4e828e883cdc9c656ad86
+bcrt1qgwev460zqprwlvnv45nq3tyuwgj4t8ukx8qs53
+bcrt1qnhuwf36kdvxf8ggzw9r4vswjaadhv3hntdz28p
+bitcoin-cli -regtest  -datadir="/home/lapphan/datadir" scantxoutset start "[\"addr(bcrt1q5gc3pcj534qq8xatpvz3y4wg706ecdsq9vnkj7)\"]"
+bcrt1q5gc3pcj534qq8xatpvz3y4wg706ecdsq9vnkj7
+25d1532ebeb4936133f79a7c09a52d9e6dc3cba9
